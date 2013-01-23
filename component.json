@@ -1,0 +1,13 @@
+{
+  "name": "handlebars",
+  "repo": "burkostya/handlebars",
+  "description": "Provides the power necessary to let you build semantic templates effectively with no frustration",
+  "version": "1.0.rc.2",
+  "keywords": ["handlebars", "template"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
