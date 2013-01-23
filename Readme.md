@@ -17,7 +17,7 @@
     
 ## Build component from original handlebars
 
-  make component
+    make component
 
 ## License
 
